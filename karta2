@@ -1,0 +1,22 @@
+<html>
+
+<head>
+<link rel="stylesheet" type="text/css" href = "D:/DG/style2.css">
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css"/>
+<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+<meta charset="UTF-8">
+<title>
+Парк ДГТУ
+</title>
+</head>
+
+<body>
+<iframe id= map 
+src="http://openstreetmap.ru/frame.php?noscreenshot=1&mapid=868579518"> </iframe>
+
+
+
+
+
+</body>
+</html>
